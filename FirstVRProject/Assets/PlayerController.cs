@@ -20,6 +20,7 @@ public class PlayerController : MonoBehaviour {
 
         LookAtMouse();
 
+
         if (Input.GetKey(KeyCode.Z))
         {
            
