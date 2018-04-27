@@ -706,10 +706,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ea9a1b3126f0e84d8f36bc26f762bcc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 7
-  rotationSpeed: 0
+  speed: 20
+  rotationSpeed: 50
   myCamera: {fileID: 109049684}
-  mouseSensitivity: 100
+  mouseSensitivity: 500
   clampAngle: 80
 --- !u!23 &524347214
 MeshRenderer:
